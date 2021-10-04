@@ -1,4 +1,5 @@
-﻿namespace winforms
+﻿using System.Windows.Forms;
+namespace winforms
 {
     partial class Form1
     {
@@ -31,8 +32,15 @@
             this.components = new System.ComponentModel.Container();
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.Text = "I am not the form i am the window, you idiot!";
+            button1 = new Button();
+            button1.Name = "Happy Button!";
+            button1.Text = "I am truly happy!";
+            button1.Location = new System.Drawing.Point(20,100);
+            button1.Size = new System.Drawing.Size(100, 50);
+            this.Controls.Add(button1);
         }
+        private Button button1;
 
         #endregion
     }

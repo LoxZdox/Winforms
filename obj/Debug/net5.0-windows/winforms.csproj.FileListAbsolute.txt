@@ -1,0 +1,16 @@
+D:\Gen\winforms\bin\Debug\net5.0-windows\winforms.exe
+D:\Gen\winforms\bin\Debug\net5.0-windows\winforms.deps.json
+D:\Gen\winforms\bin\Debug\net5.0-windows\winforms.runtimeconfig.json
+D:\Gen\winforms\bin\Debug\net5.0-windows\winforms.runtimeconfig.dev.json
+D:\Gen\winforms\bin\Debug\net5.0-windows\winforms.dll
+D:\Gen\winforms\bin\Debug\net5.0-windows\ref\winforms.dll
+D:\Gen\winforms\bin\Debug\net5.0-windows\winforms.pdb
+D:\Gen\winforms\obj\Debug\net5.0-windows\winforms.csproj.AssemblyReference.cache
+D:\Gen\winforms\obj\Debug\net5.0-windows\winforms.GeneratedMSBuildEditorConfig.editorconfig
+D:\Gen\winforms\obj\Debug\net5.0-windows\winforms.AssemblyInfoInputs.cache
+D:\Gen\winforms\obj\Debug\net5.0-windows\winforms.AssemblyInfo.cs
+D:\Gen\winforms\obj\Debug\net5.0-windows\winforms.csproj.CoreCompileInputs.cache
+D:\Gen\winforms\obj\Debug\net5.0-windows\winforms.dll
+D:\Gen\winforms\obj\Debug\net5.0-windows\ref\winforms.dll
+D:\Gen\winforms\obj\Debug\net5.0-windows\winforms.pdb
+D:\Gen\winforms\obj\Debug\net5.0-windows\winforms.genruntimeconfig.cache
