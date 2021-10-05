@@ -50,13 +50,13 @@ namespace winforms
             button3.Text = "Wtf, stop pushin` me!";
         }
         private void button4_Click(object sender, EventArgs e){
-            button1.Text = "Wtf, stop pushin` me!";
+            button4.Text = "Wtf, stop pushin` me!";
         }
         private void button5_Click(object sender, EventArgs e){
-            button2.Text = "Wtf, stop pushin` me!";
+            button5.Text = "Wtf, stop pushin` me!";
         }
         private void button6_Click(object sender, EventArgs e){
-            button3.Text = "Wtf, stop pushin` me!";
+            button6.Text = "Wtf, stop pushin` me!";
         }
         private void button7_Click(object sender, EventArgs e){
         }
